@@ -1,0 +1,2 @@
+meteor-spiner-api-docs
+======================
